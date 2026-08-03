@@ -1,0 +1,19 @@
+LIBRARY version
+EXPORTS
+    GetFileVersionInfoA = vproxy_GetFileVersionInfoA
+    GetFileVersionInfoByHandle = vproxy_GetFileVersionInfoByHandle
+    GetFileVersionInfoExA = vproxy_GetFileVersionInfoExA
+    GetFileVersionInfoExW = vproxy_GetFileVersionInfoExW
+    GetFileVersionInfoSizeA = vproxy_GetFileVersionInfoSizeA
+    GetFileVersionInfoSizeExA = vproxy_GetFileVersionInfoSizeExA
+    GetFileVersionInfoSizeExW = vproxy_GetFileVersionInfoSizeExW
+    GetFileVersionInfoSizeW = vproxy_GetFileVersionInfoSizeW
+    GetFileVersionInfoW = vproxy_GetFileVersionInfoW
+    VerFindFileA = vproxy_VerFindFileA
+    VerFindFileW = vproxy_VerFindFileW
+    VerInstallFileA = vproxy_VerInstallFileA
+    VerInstallFileW = vproxy_VerInstallFileW
+    VerLanguageNameA = vproxy_VerLanguageNameA
+    VerLanguageNameW = vproxy_VerLanguageNameW
+    VerQueryValueA = vproxy_VerQueryValueA
+    VerQueryValueW = vproxy_VerQueryValueW
